@@ -1,4 +1,4 @@
 #requirements.txt
 snowflake-connector-python
 charset-normalizer==2.0.12
-pip install pyarrow 8.0.0
+pip install pyarrow 
